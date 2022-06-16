@@ -9,4 +9,4 @@ dotnet new console -o "SampleConsole"
 
 ## Git
 1. Git Flowの勉強
-→releaseブランチの活用
+→releaseブランチの活用　追記
